@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am a Computer Engineer with a passion for web programming and artificial intelligence.<br>🌱 I'm currently learning golang.
+🔭I am a Computer Engineer with a passion for web programming and artificial intelligence.<br>🌱 I am currently using the golang.
 
 
 ## 🌐 Socials:
